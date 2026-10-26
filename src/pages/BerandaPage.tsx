@@ -71,13 +71,13 @@ export function BerandaPage({ onNavigate }: { onNavigate: (page: PageId) => void
               <span className="text-xs font-medium text-white">Berbadan Hukum · No. 421/BH/2023</span>
             </div>
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white leading-tight">
-              Koperasi Desa Merah Putih
+              Koperasi Kelurahan Merah Putih Serua Indah
             </h1>
             <p className="mt-2 text-xl sm:text-2xl text-red-200 font-medium">
-              Kesejahteraan Bersama, Mandiri Bersama
+              Unggul, Mandiri, dan Transparan
             </p>
             <p className="mt-6 text-base sm:text-lg text-gray-300 leading-relaxed max-w-2xl">
-              Sistem informasi koperasi desa untuk katalog barang, pemasok,
+              Sistem informasi koperasi kelurahan untuk katalog barang, pemasok,
               keanggotaan, layanan simpan-pinjam, dan administrasi keuangan
               yang transparan untuk seluruh warga.
             </p>
