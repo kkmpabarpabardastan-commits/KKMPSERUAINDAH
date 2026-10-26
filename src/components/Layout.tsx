@@ -154,10 +154,10 @@ export function Footer({ onNavigate }: { onNavigate: (page: PageId) => void }) {
           <div>
             <h4 className="text-sm font-semibold text-white mb-3">Kontak</h4>
             <ul className="space-y-2 text-sm">
-              <li>Desa Sukamaju, Kec. Cimahi</li>
-              <li>Kabupaten Bandung, Jawa Barat</li>
+              <li>jl. Suka Damai No.1, Serua Indah</li>
+              <li>Kec. Ciputat, Kota Tangerang Selatan, Banten</li>
               <li>Telp: (022) 1234-5678</li>
-              <li>Email: kdmp@sukamaju.desa.id</li>
+              <li>Email: kdmp@seruaindah.KEl.id</li>
               <li>Jam Layanan: 08.00 - 16.00 WIB</li>
             </ul>
           </div>
