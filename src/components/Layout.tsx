@@ -53,10 +53,10 @@ export function Navbar({
             </div>
             <div className="text-left">
               <span className="block text-sm font-bold text-gray-900 leading-tight">
-                KDMP
+                KKMP
               </span>
               <span className="block text-[10px] text-gray-500 leading-tight">
-                Koperasi Desa Merah Putih
+                Koperasi Kelurahan Merah Putih
               </span>
             </div>
           </button>
@@ -121,14 +121,14 @@ export function Footer({ onNavigate }: { onNavigate: (page: PageId) => void }) {
                 <Store className="w-5 h-5 text-white" />
               </div>
               <div>
-                <span className="block text-sm font-bold text-white">KDMP</span>
+                <span className="block text-sm font-bold text-white">KKMP</span>
                 <span className="block text-[10px] text-gray-500">
-                  Koperasi Desa/Kelurahan Merah Putih
+                  Koperasi Kelurahan Merah Putih
                 </span>
               </div>
             </div>
             <p className="text-sm leading-relaxed max-w-md">
-              Koperasi Desa/Kelurahan Merah Putih berkomitmen melayani
+              Koperasi Kelurahan Merah Putih berkomitmen melayani
               masyarakat desa dengan menyediakan kebutuhan pokok, layanan
               simpan pinjam, dan perdagangan dengan harga terjangkau untuk
       kesejahteraan bersama.
@@ -165,8 +165,8 @@ export function Footer({ onNavigate }: { onNavigate: (page: PageId) => void }) {
 
         <div className="border-t border-gray-800 mt-8 pt-6 text-center text-xs">
           <p>
-            © {new Date().getFullYear()} Koperasi Desa/Kelurahan Merah Putih.
-            Berbadan Hukum. No. 421/BH/2023.
+            © {new Date().getFullYear()} Koperasi Kelurahan Merah Putih.
+          
           </p>
         </div>
       </div>
