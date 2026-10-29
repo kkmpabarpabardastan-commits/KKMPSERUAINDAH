@@ -74,7 +74,7 @@ export function BerandaPage({ onNavigate }: { onNavigate: (page: PageId) => void
               Koperasi Kelurahan Merah Putih Serua Indah
             </h1>
             <p className="mt-2 text-xl sm:text-2xl text-red-200 font-medium">
-              Unggul, Mandiri, dan Transparan
+              Unggul, Mandiri, amanat, dan Transparan
             </p>
             <p className="mt-6 text-base sm:text-lg text-gray-300 leading-relaxed max-w-2xl">
               Sistem informasi koperasi kelurahan untuk katalog barang, pemasok,
