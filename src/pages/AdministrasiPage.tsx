@@ -243,12 +243,6 @@ export function AdministrasiPage() {
                 Buka Akses
               </button>
             </form>
-
-            <div className="mt-6 p-3 rounded-xl bg-gray-50 border border-gray-100">
-              <p className="text-xs text-gray-500 text-center">
-                Password default: <span className="font-mono font-medium text-gray-700">kdmp2024</span>
-              </p>
-            </div>
           </div>
         </div>
       </div>
